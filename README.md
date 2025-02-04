@@ -11,8 +11,9 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-    <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img align="center" alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+  <img width="40" height="40" src="https://img.icons8.com/offices/40/react.png" alt="react"/>
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
