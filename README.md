@@ -16,8 +16,8 @@
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/>
-  
-  
+  <img width="48" height="48" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
 </div><br/>
 
 Programar é minha linguagem para criar o impossível.
