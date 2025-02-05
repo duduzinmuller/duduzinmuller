@@ -16,8 +16,8 @@
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/>
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
   <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
+  <img width="48" height="48" src="https://img.icons8.com/ios/50/prisma-orm.png" alt="prisma-orm"/>
 </div><br/>
 
 Programar é minha linguagem para criar o impossível.
