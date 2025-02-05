@@ -22,6 +22,8 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png" alt="external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
 </div><br/>
 
 Programar é minha linguagem para criar o impossível.
