@@ -30,7 +30,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
-   <img width="48" height="48" src="https://img.icons8.com/windows/32/yarn-logo.png" alt="yarn-logo"/>
+  https://icons8.com/icon/4HNCSeV8mUJK/yarn-logo
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
  <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
