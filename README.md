@@ -1,6 +1,8 @@
 ### Olà! Eu sou o Eduardo Muller👋
 [![Blog](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edu_muller05/profilecard/?igsh=MWlkYWQwdG9wc28zdw==)
+<a href="https://www.instagram.com/edu_muller05/profilecard/?igsh=MWlkYWQwdG9wc28zdw==" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+</a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-muller-052182260/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUDUZIN8)](https://github.com/anuraghazra/github-readme-stats)
