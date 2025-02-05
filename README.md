@@ -18,6 +18,7 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
   <img width="40" height="40" src="https://img.icons8.com/fluency/48/prisma-orm.png" alt="prisma-orm"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 </div><br/>
 
 Programar é minha linguagem para criar o impossível.
