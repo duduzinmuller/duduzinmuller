@@ -25,7 +25,8 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/yarn.png" alt="yarn"/>
+ ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
 
 </div><br/>
 
