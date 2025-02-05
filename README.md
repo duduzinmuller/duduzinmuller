@@ -1,7 +1,7 @@
 ### Olà! Eu sou o Eduardo Muller👋
 [![Blog](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 <a href="https://www.instagram.com/dixx_do__muller/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+   
 </a>
 <a href="https://www.linkedin.com/in/eduardo-muller-052182260/" target="_blank">
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
