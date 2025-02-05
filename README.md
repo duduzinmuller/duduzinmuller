@@ -32,7 +32,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
-
+ <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
 </div><br/>
 
 Programar é minha linguagem para criar o impossível.
