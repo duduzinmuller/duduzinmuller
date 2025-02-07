@@ -5,6 +5,10 @@
 <a href="https://www.linkedin.com/in/eduardo-muller-052182260/" target="_blank">
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
 </a>
+<a href="https://www.facebook.com/profile.php?id=100088596764941" targer="_blank">
+   <img width="48" height="48" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/>
+</a>
+<a href="https://w.app/btva5q"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp.png" alt="whatsapp"/></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUDUZIN8)](https://github.com/anuraghazra/github-readme-stats)
