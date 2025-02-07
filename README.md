@@ -39,6 +39,7 @@
    <img width="48" height="48" src="https://img.icons8.com/color/48/heroku.png" alt="heroku"/>
    <img width="48" height="48" src="https://img.icons8.com/material-rounded/48/github.png" alt="github"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
+   <img width="48" height="48" src="https://img.icons8.com/color/48/powershell.png" alt="powershell"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/console.png" alt="console"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 </div><br/>
