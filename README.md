@@ -1,7 +1,6 @@
-<h3 style="position: relative; bottom: 10px">
+
   Olá! Eu sou
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Desenvolvedor+Web;Desenvolvedor+de+Sistemas;Desenvolvedor+Mobile&center=false&size=22">
-</h3>
 
 <a href="https://www.instagram.com/dixx_do__muller/">
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
