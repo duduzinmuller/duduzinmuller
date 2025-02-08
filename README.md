@@ -1,4 +1,4 @@
-### Olà! Eu sou o Eduardo Muller👋
+### Olà! ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Desenvolvedor+Web;Desenvolvedor+de+Sistemas;Desenvolvedor+Mobile&center=true&size=22)
 
 <a href="https://www.instagram.com/dixx_do__muller/">
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
@@ -13,8 +13,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUDUZIN8)](https://github.com/anuraghazra/github-readme-stats)
-![Snake animation](https://github.com/DUDUZIN8/blob/output/github-contribution-grid-snake.svg)
-
 
 ## Tecnologias que eu uso no meu dia a dia
 
