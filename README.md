@@ -1,4 +1,8 @@
-<h3>Olá! <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Desenvolvedor+Web;Desenvolvedor+de+Sistemas;Desenvolvedor+Mobile&center=true&size=22"></h3>
+<h3 align="left">
+  Olá! 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Desenvolvedor+Web;Desenvolvedor+de+Sistemas;Desenvolvedor+Mobile&center=false&size=22">
+</h3>
+
 <a href="https://www.instagram.com/dixx_do__muller/">
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
 </a>
