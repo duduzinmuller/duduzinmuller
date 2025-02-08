@@ -1,4 +1,6 @@
 ### Olà! Eu sou o Eduardo Muller👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;React,+Node.js,+Docker,+Prisma&center=true&size=22)
+
 <a href="https://www.instagram.com/dixx_do__muller/">
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
 </a>
