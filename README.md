@@ -48,4 +48,5 @@
 
 Programar é minha linguagem para criar o impossível.
 
+![Snake animation](https://github.com/DUDUZIN8/blob/output/github-contribution-grid-snake.svg)
 
