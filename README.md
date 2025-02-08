@@ -1,5 +1,5 @@
-<h3 align="left">
-  Olá! 
+<h3>
+  Olá! eu sou
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Desenvolvedor+Web;Desenvolvedor+de+Sistemas;Desenvolvedor+Mobile&center=false&size=22">
 </h3>
 
