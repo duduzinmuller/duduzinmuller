@@ -1,5 +1,5 @@
-<h3 display: inline-block>
-  Olá! eu sou
+<h3 style="display: flex; align-items: center; gap: 8px;">
+  Olá! Eu sou
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Desenvolvedor+Web;Desenvolvedor+de+Sistemas;Desenvolvedor+Mobile&center=false&size=22">
 </h3>
 
