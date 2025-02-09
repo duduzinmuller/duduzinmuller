@@ -1,5 +1,5 @@
 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Eu+Sou+Desenvolvedor+Full+Stack;Eu+Sou+Desenvolvedor+Web;Eu+Sou+Desenvolvedor+de+Sistemas;Eu+Sou+Desenvolvedor+Mobile&center=false&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Eu+Sou+Desenvolvedor+Full+Stack;Eu+Sou+Desenvolvedor+Web;Eu+Sou+Desenvolvedor+de+Sistemas;Eu+Sou+Desenvolvedor+Mobile&center=false&size=30">
 
 <a href="https://www.instagram.com/dixx_do__muller/">
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
