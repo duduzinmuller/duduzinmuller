@@ -1,6 +1,8 @@
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Desenvolvedor+Web;Desenvolvedor+de+Sistemas;Desenvolvedor+Mobile&center=false&size=22">
 
+  ![Visitantes](https://shields.io/badge/dynamic/json?color=blue&label=Visitantes&query=value&url=https://api.countapi.xyz/hit/DUDUZIN8)
+
 <a href="https://www.instagram.com/dixx_do__muller/">
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
 </a>
