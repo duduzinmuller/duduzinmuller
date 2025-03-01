@@ -30,6 +30,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
   <img width="40" height="40" src="https://img.icons8.com/fluency/48/prisma-orm.png" alt="prisma-orm"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png" alt="external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png" alt="external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
