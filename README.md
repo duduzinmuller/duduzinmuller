@@ -50,5 +50,5 @@
 
 Programar é minha linguagem para criar o impossível.
 
-![snake gif](https://github.com/DUDUZIN8/DUDUZIN8/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/duduzinmuller/duduzinmuller/blob/output/github-contribution-grid-snake.gif)
 
