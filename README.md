@@ -12,11 +12,8 @@
 </a>
 <a href="https://w.app/btva5q"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp.png" alt="whatsapp"/></a>
 
-
-<div style="display: flex; flex-direction: column">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DUDUZIN8)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DUDUZIN8&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-</div>
 
 
 ## Tecnologias que eu uso no meu dia a dia
