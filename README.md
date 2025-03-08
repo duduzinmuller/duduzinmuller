@@ -50,6 +50,7 @@ Firebase, OAuth
 Postman
 
 Git, GitHub
+<br>
 <a href="https://www.instagram.com/dixx_do__muller/">
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
 </a>
