@@ -1,8 +1,6 @@
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Desenvolvedor+Web;Desenvolvedor+de+Sistemas;Desenvolvedor+Mobile&center=false&size=22">
 
-💻 Desenvolvedor Fullstack
-
 Sou um desenvolvedor Fullstack apaixonado por tecnologia e inovação, com experiência no desenvolvimento de aplicações web e mobile. Meu foco é criar interfaces modernas, APIs escaláveis e sistemas bem estruturados, utilizando tecnologias como React, Node.js, Prisma e PostgreSQL.
 
 Tenho experiência em arquitetura de software, seguindo boas práticas como separação de camadas (Repository, Use Case e Controller) e utilizando PostgreSQL como banco de dados com Prisma ORM.
