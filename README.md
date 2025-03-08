@@ -1,6 +1,5 @@
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Desenvolvedor+Web;Desenvolvedor+de+Sistemas;Desenvolvedor+Mobile&center=false&size=22">
-  👋 Olá! Eu sou [Seu Nome]
 
 💻 Desenvolvedor Fullstack
 
@@ -19,37 +18,6 @@ Tenho experiência em arquitetura de software, seguindo boas práticas como sepa
 ✅ Gerenciamento de estado com React Context API e Redux
 ✅ Boas práticas de versionamento com Git e GitHub
 
-🛠️ Tecnologias e Ferramentas
-
-🎨 Frontend
-
-HTML, CSS, JavaScript, TypeScript
-
-React, React Native Web
-
-Tailwind CSS
-
-
-⚙️ Backend
-
-Node.js, Express
-
-Prisma ORM
-
-PostgreSQL
-
-
-🔧 Outras Ferramentas
-
-NPM, Yarn
-
-Docker
-
-Firebase, OAuth
-
-Postman
-
-Git, GitHub
 <br>
 <a href="https://www.instagram.com/dixx_do__muller/">
    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
