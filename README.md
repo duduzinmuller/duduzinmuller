@@ -16,18 +16,6 @@ Tenho experiência em arquitetura de software, seguindo boas práticas como sepa
 ✅ Gerenciamento de estado com React Context API e Redux
 ✅ Boas práticas de versionamento com Git e GitHub
 
-<br>
-<a href="https://www.instagram.com/dixx_do__muller/">
-   <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
-</a>
-<a href="https://www.linkedin.com/in/eduardo-muller-052182260/" target="_blank">
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
-</a>
-<a href="https://www.facebook.com/profile.php?id=100088596764941" targer="_blank">
-   <img width="48" height="48" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/>
-</a>
-<a href="https://w.app/btva5q"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp.png" alt="whatsapp"/></a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduzinmuller)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=duduzinmuller&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
