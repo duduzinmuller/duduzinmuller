@@ -16,7 +16,7 @@ Tenho experiência em arquitetura de software, seguindo boas práticas como sepa
 ✅ Gerenciamento de estado com React Context API e Redux
 ✅ Boas práticas de versionamento com Git e GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduzinmuller)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduzinmuller&langs_count=8)
 ![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duduzinmuller&show_icons=true&theme=dracula)
 
 
