@@ -28,7 +28,7 @@ Tenho experiência em arquitetura de software, seguindo boas práticas como sepa
 
 ## ⚙️ Back-End  
 ![Node.js](https://img.icons8.com/fluency/48/node-js.png) ![PostgreSQL](https://img.icons8.com/color/48/postgreesql.png) <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
- ![Prisma ORM](https://img.icons8.com/fluency/48/prisma-orm.png) ![Redis](https://img.icons8.com/color/48/redis--v1.png) ![Jest](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png)  
+ ![Prisma ORM](https://img.icons8.com/fluency/48/prisma-orm.png) ![Redis](https://img.icons8.com/color/48/redis--v1.png) ![Jest](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png)  <img width="48" height="48" src="https://img.icons8.com/ios/50/FFFFFF/express-js.png" alt="express-js"/>
 
 ---  
 
