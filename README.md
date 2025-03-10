@@ -40,7 +40,5 @@ Tenho experiência em arquitetura de software, seguindo boas práticas como sepa
 ![Linux](https://img.icons8.com/color/48/linux--v1.png) ![Ubuntu](https://img.icons8.com/color/48/ubuntu--v1.png) ![Windows](https://img.icons8.com/fluency/48/windows-10.png) ![PowerShell](https://img.icons8.com/color/48/powershell.png) ![Terminal](https://img.icons8.com/color/48/console.png)  
 
 
-Programar é minha linguagem para criar o impossível.
-
 ![snake gif](https://github.com/duduzinmuller/duduzinmuller/blob/output/github-contribution-grid-snake.gif)
 
