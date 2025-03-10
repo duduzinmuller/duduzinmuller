@@ -19,38 +19,48 @@ Tenho experiência em arquitetura de software, seguindo boas práticas como sepa
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduzinmuller&langs_count=8)
 ![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duduzinmuller&show_icons=true&theme=dracula)
 
+# 🚀 Tecnologias e Ferramentas
 
-## Tecnologias que eu uso no meu dia a dia
+## 🖥️ Front-End  
+![HTML5](https://img.icons8.com/color/48/html-5--v1.png) **HTML5**  
+![CSS3](https://img.icons8.com/color/48/css3.png) **CSS3**  
+![JavaScript](https://img.icons8.com/color/48/javascript--v1.png) **JavaScript**  
+![TypeScript](https://img.icons8.com/fluency/48/typescript--v1.png) **TypeScript**  
+![React](https://img.icons8.com/plasticine/100/react.png) **React.js**  
+![Next.js](https://img.icons8.com/fluency/48/nextjs.png) **Next.js**  
+![Tailwind CSS](https://img.icons8.com/color/48/tailwind_css.png) **Tailwind CSS**  
+![Bootstrap](https://img.icons8.com/color/48/bootstrap--v2.png) **Bootstrap**  
+![Sass](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png) **Sass**  
+![Figma](https://img.icons8.com/color/48/figma--v1.png) **Figma**  
 
-<div style="display: inline_block">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v1.png" alt="typescript--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-  <img width="48" height="48" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
-  <img width="40" height="40" src="https://img.icons8.com/fluency/48/prisma-orm.png" alt="prisma-orm"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png" alt="external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png" alt="external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
- <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-   <img width="48" height="48" src="https://img.icons8.com/color/48/heroku.png" alt="heroku"/>
-   <img width="48" height="48" src="https://img.icons8.com/material-rounded/48/github.png" alt="github"/>
-   <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
-   <img width="48" height="48" src="https://img.icons8.com/color/48/powershell.png" alt="powershell"/>
-   <img width="48" height="48" src="https://img.icons8.com/color/48/console.png" alt="console"/>
-   <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-</div><br/>
+---
+
+## ⚙️ Back-End  
+![Node.js](https://img.icons8.com/fluency/48/node-js.png) **Node.js**  
+![PostgreSQL](https://img.icons8.com/color/48/postgreesql.png) **PostgreSQL**  
+![Prisma ORM](https://img.icons8.com/fluency/48/prisma-orm.png) **Prisma ORM**  
+![Redis](https://img.icons8.com/color/48/redis--v1.png) **Redis**  
+![Jest](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png) **Jest**  
+
+---
+
+## 🔧 Ferramentas & DevOps  
+![Docker](https://img.icons8.com/color/48/docker.png) **Docker**  
+![Firebase](https://img.icons8.com/color/48/firebase.png) **Firebase**  
+![Heroku](https://img.icons8.com/color/48/heroku.png) **Heroku**  
+![Git](https://img.icons8.com/color/48/git.png) **Git**  
+![GitHub](https://img.icons8.com/material-rounded/48/github.png) **GitHub**  
+![npm](https://img.icons8.com/color/48/npm.png) **npm**  
+![Visual Studio Code](https://img.icons8.com/color/48/visual-studio-code-2019.png) **Visual Studio Code**  
+
+---
+
+## 💻 Sistemas Operacionais e Linha de Comando  
+![Linux](https://img.icons8.com/color/48/linux--v1.png) **Linux**  
+![Ubuntu](https://img.icons8.com/color/48/ubuntu--v1.png) **Ubuntu**  
+![Windows](https://img.icons8.com/fluency/48/windows-10.png) **Windows**  
+![PowerShell](https://img.icons8.com/color/48/powershell.png) **PowerShell**  
+![Terminal](https://img.icons8.com/color/48/console.png) **Terminal (CLI)**  
 
 Programar é minha linguagem para criar o impossível.
 
