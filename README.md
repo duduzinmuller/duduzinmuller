@@ -33,7 +33,7 @@ Tenho experiência em arquitetura de software, seguindo boas práticas como sepa
 ---  
 
 ## 🔧 Ferramentas & DevOps  
-![Docker](https://img.icons8.com/color/48/docker.png) ![Firebase](https://img.icons8.com/color/48/firebase.png) ![Heroku](https://img.icons8.com/color/48/heroku.png) ![Git](https://img.icons8.com/color/48/git.png) ![GitHub](https://img.icons8.com/material-rounded/48/github.png) ![npm](https://img.icons8.com/color/48/npm.png) ![Visual Studio Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)  
+![Docker](https://img.icons8.com/color/48/docker.png) ![Firebase](https://img.icons8.com/color/48/firebase.png) ![Heroku](https://img.icons8.com/color/48/heroku.png) ![Git](https://img.icons8.com/color/48/git.png) ![GitHub](https://img.icons8.com/material-rounded/48/github.png) ![npm](https://img.icons8.com/color/48/npm.png) <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo.png" alt="external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo"/> ![Visual Studio Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)  
 
 ---  
 
