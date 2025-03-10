@@ -17,7 +17,7 @@ Tenho experiência em arquitetura de software, seguindo boas práticas como sepa
 ✅ Boas práticas de versionamento com Git e GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduzinmuller)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=duduzinmuller&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duduzinmuller&show_icons=true&theme=dracula)
 
 
 ## Tecnologias que eu uso no meu dia a dia
