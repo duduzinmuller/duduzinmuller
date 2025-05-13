@@ -1,4 +1,4 @@
-![](./profile-3d-contrib/profile-night-view.svg)
+![3D GitHub Profile](https://raw.githubusercontent.com/duduzinmuller/duduzinmuller/main/profile-3d-contrib/profile-night-view.svg)
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Eu+Sou+Desenvolvedor+Full+Stack;Eu+Sou+Desenvolvedor+Web;Eu+Sou+Desenvolvedor+de+Sistemas;Eu+Sou+Desenvolvedor+Mobile&center=false&size=22">
 
 Sou um desenvolvedor Fullstack apaixonado por tecnologia e inovação, com experiência no desenvolvimento de aplicações web e mobile. Meu foco é criar interfaces modernas, APIs escaláveis e sistemas bem estruturados, utilizando tecnologias como React, Node.js, Prisma e PostgreSQL.
