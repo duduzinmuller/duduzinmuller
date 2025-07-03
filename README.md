@@ -1,19 +1,18 @@
 
-Sou um desenvolvedor Fullstack apaixonado por tecnologia e inovação, com experiência no desenvolvimento de aplicações web e mobile. Meu foco é criar interfaces modernas, APIs escaláveis e sistemas bem estruturados, utilizando tecnologias como React, Node.js, Prisma e PostgreSQL.
+I'm a Fullstack Developer passionate about technology and innovation, with experience in building both web and mobile applications. My focus is on crafting modern user interfaces, scalable APIs, and well-structured systems using technologies like React, Next.js, React Native, Node.js, Prisma, and PostgreSQL.
 
-Tenho experiência em arquitetura de software, seguindo boas práticas como separação de camadas (Repository, Use Case e Controller) e utilizando PostgreSQL como banco de dados com Prisma ORM.
+I have solid knowledge of software architecture, following best practices such as layered separation (Repository, Use Case, and Controller) and utilizing PostgreSQL as the database, along with Prisma ORM for data modeling and queries.
 
-🚀 Experiência
+🚀 Experience
+✅ Fullstack application development with React, Next.js, React Native, Node.js, and Express
+✅ Building RESTful APIs using Prisma ORM and PostgreSQL
+✅ Creating responsive user interfaces with HTML, CSS, Tailwind CSS, and JavaScript
+✅ Frontend development with React and TypeScript
+✅ Using React Native Web for apps that run on both browser and mobile
+✅ Implementing authentication with Firebase and OAuth (Google and Facebook)
+✅ Managing state with React Context API and Redux
+✅ Following best practices for version control with Git and GitHub
 
-✅ Desenvolvimento de aplicações Fullstack com React, Node.js e Express
-✅ Construção de APIs RESTful utilizando Prisma ORM e PostgreSQL
-✅ Criação de interfaces responsivas com HTML, CSS, Tailwind CSS e JavaScript
-✅ Desenvolvimento de aplicações frontend com React e TypeScript
-✅ Uso de React Native Web para aplicações que rodam no navegador e mobile
-✅ Implementação de autenticação com Firebase e OAuth (Google e Facebook)
-✅ Gerenciamento de estado com React Context API e Redux
-✅ Boas práticas de versionamento com Git e GitHub
-  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduzinmuller&layout=compact&theme=dark)
 ![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duduzinmuller&show_icons=true&theme=dark)
 
@@ -32,11 +31,6 @@ Tenho experiência em arquitetura de software, seguindo boas práticas como sepa
 
 ## 🔧 Ferramentas & DevOps  
 ![Docker](https://img.icons8.com/color/48/docker.png) ![Firebase](https://img.icons8.com/color/48/firebase.png) ![Heroku](https://img.icons8.com/color/48/heroku.png) ![Git](https://img.icons8.com/color/48/git.png) ![GitHub](https://img.icons8.com/material-rounded/48/github.png) ![npm](https://img.icons8.com/color/48/npm.png) <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo.png" alt="external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo"/> ![Visual Studio Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)  
-
----  
-
-## 💻 Sistemas Operacionais e Linha de Comando  
-![Linux](https://img.icons8.com/color/48/linux--v1.png) ![Ubuntu](https://img.icons8.com/color/48/ubuntu--v1.png) ![Windows](https://img.icons8.com/fluency/48/windows-10.png) ![PowerShell](https://img.icons8.com/color/48/powershell.png) ![Terminal](https://img.icons8.com/color/48/console.png)  
 
 
 ![snake gif](https://github.com/duduzinmuller/duduzinmuller/blob/output/github-contribution-grid-snake.gif)
