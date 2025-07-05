@@ -16,7 +16,7 @@ I have solid knowledge of software architecture, following best practices such a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduzinmuller&layout=compact&theme=dark)
 ![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duduzinmuller&show_icons=true&theme=dark)
 
-# 🚀 technologies and Tools 
+# 🚀 Technologies and Tools 
 
 ## 🖥️ Front-End  
 ![HTML5](https://img.icons8.com/color/48/html-5--v1.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png) ![TypeScript](https://img.icons8.com/fluency/48/typescript--v1.png) ![React](https://img.icons8.com/plasticine/48/react.png) ![Next.js](https://img.icons8.com/fluency/48/nextjs.png) ![Tailwind CSS](https://img.icons8.com/color/48/tailwind_css.png) ![Bootstrap](https://img.icons8.com/color/48/bootstrap--v2.png) ![Sass](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-sass-a-style-sheet-professional-grade-css-extension-language-logo-color-tal-revivo.png) ![Figma](https://img.icons8.com/color/48/figma--v1.png) <img width="48" height="48" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
