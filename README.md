@@ -13,8 +13,8 @@ I have solid knowledge of software architecture, following best practices such a
 ✅ Managing state with React Context API and Redux
 ✅ Following best practices for version control with Git and GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduzinmuller&layout=compact&theme=dark)
 ![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duduzinmuller&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduzinmuller&layout=compact&theme=dark)
 
 # 🚀 Technologies and Tools 
 
