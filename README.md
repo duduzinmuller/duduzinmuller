@@ -1,4 +1,5 @@
-
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Desenvolvedor+Web;Desenvolvedor+de+Sistemas;Desenvolvedor+Mobile&center=true&size=22)
+ 
 I'm a Fullstack Developer passionate about technology and innovation, with experience in building both web and mobile applications. My focus is on crafting modern user interfaces, scalable APIs, and well-structured systems using technologies like React, Next.js, React Native, Node.js, Prisma, and PostgreSQL.
 
 I have solid knowledge of software architecture, following best practices such as layered separation (Repository, Use Case, and Controller) and utilizing PostgreSQL as the database, along with Prisma ORM for data modeling and queries.
