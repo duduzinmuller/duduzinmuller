@@ -8,15 +8,15 @@ I'm a Fullstack Developer passionate about technology and innovation, with exper
 
 I have solid knowledge of software architecture, following best practices such as layered separation (Repository, Use Case, and Controller) and utilizing PostgreSQL as the database, along with Prisma ORM for data modeling and queries.
 
-🚀 Experience
-✅ Fullstack application development with React, Next.js, React Native, Node.js, and Express
-✅ Building RESTful APIs using Prisma ORM and PostgreSQL
-✅ Creating responsive user interfaces with HTML, CSS, Tailwind CSS, and JavaScript
-✅ Frontend development with React and TypeScript
-✅ Using React Native Web for apps that run on both browser and mobile
-✅ Implementing authentication with Firebase and OAuth (Google and Facebook)
-✅ Managing state with React Context API and Redux
-✅ Following best practices for version control with Git and GitHub
+🚀 **Experience**  
+✅ Fullstack application development with React, Next.js, React Native, Node.js, and Express  
+✅ Building RESTful APIs using Prisma ORM and PostgreSQL  
+✅ Creating responsive user interfaces with HTML, CSS, Tailwind CSS, and JavaScript  
+✅ Frontend development with React and TypeScript  
+✅ Using React Native Web for apps that run on both browser and mobile  
+✅ Implementing authentication with Firebase and OAuth (Google and Facebook)  
+✅ Managing state with React Context API and Redux  
+✅ Following best practices for version control with Git and GitHub  
 
 ![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duduzinmuller&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duduzinmuller&layout=compact&theme=dark)
