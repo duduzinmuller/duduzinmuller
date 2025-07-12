@@ -1,5 +1,8 @@
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Desenvolvedor+Web;Desenvolvedor+de+Sistemas;Desenvolvedor+Mobile&center=true&size=22)
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Desenvolvedor+Web;Desenvolvedor+de+Sistemas;Desenvolvedor+Mobile&center=true&size=22)
+ </div>
 
 I'm a Fullstack Developer passionate about technology and innovation, with experience in building both web and mobile applications. My focus is on crafting modern user interfaces, scalable APIs, and well-structured systems using technologies like React, Next.js, React Native, Node.js, Prisma, and PostgreSQL.
 
