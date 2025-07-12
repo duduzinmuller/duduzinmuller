@@ -8,7 +8,7 @@ I'm a Fullstack Developer passionate about technology and innovation, with exper
 
 I have solid knowledge of software architecture, following best practices such as layered separation (Repository, Use Case, and Controller) and utilizing PostgreSQL as the database, along with Prisma ORM for data modeling and queries.
 
-🚀 **Experience**  
+# 🚀 **Experience**  
 ✅ Fullstack application development with React, Next.js, React Native, Node.js, and Express  
 ✅ Building RESTful APIs using Prisma ORM and PostgreSQL  
 ✅ Creating responsive user interfaces with HTML, CSS, Tailwind CSS, and JavaScript  
