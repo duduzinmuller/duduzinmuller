@@ -37,4 +37,4 @@ I have solid knowledge of software architecture, following best practices such a
 ## 🔧 Tools & DevOps  
 ![Docker](https://img.icons8.com/color/48/docker.png) ![Firebase](https://img.icons8.com/color/48/firebase.png) ![Heroku](https://img.icons8.com/color/48/heroku.png) ![Git](https://img.icons8.com/color/48/git.png) ![GitHub](https://img.icons8.com/material-rounded/48/github.png) ![npm](https://img.icons8.com/color/48/npm.png) <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo.png" alt="external-yarn-fast-reliable-and-secure-dependency-management-web-portal-logo-color-tal-revivo"/> ![Visual Studio Code](https://img.icons8.com/color/48/visual-studio-code-2019.png)  
 
-![Snake animation](https://raw.githubusercontent.com/duduzinmuller/output/github-snake-dark.svg)
+![snake gif](https://github.com/duduzinmuller/duduzinmuller/blob/output/github-snake-dark.svg)
