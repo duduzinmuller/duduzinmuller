@@ -18,7 +18,6 @@ I have solid knowledge of software architecture, following best practices such a
 ✅ Managing state with React Context API and Redux  
 ✅ Following best practices for version control with Git and GitHub  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duduzinmuller&show_icons=true&bg_color=00000000)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rrjfw64dvo76weqyirhlbax36y&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31rrjfw64dvo76weqyirhlbax36y&redirect=true)
 
